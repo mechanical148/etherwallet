@@ -463,6 +463,12 @@ gasLimit:   200000,
 data:       '',
 msg:        'Credits token sale https://credits.com'
 },
+ // ABBC Cash (ABCH) Token Sale
+to:         '0x763688B053158d3a42AA78e8C6b5b675877d9361',
+gasLimit:   250000,
+data:       '',
+msg:        ''
+},                 
 {
 // ABBC Cash (ABCH) Token Sale
 to:         '0xcc7d26d8ea6281bb363c8448515f2c61f7bc19f0',
